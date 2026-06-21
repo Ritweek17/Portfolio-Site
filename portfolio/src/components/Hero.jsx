@@ -169,8 +169,8 @@ function Hero() {
     absolute
 
     /* Mobile */
-    top-4
-    left-60
+    top-3
+    left-55
     -translate-x-1/2
 
     /* Tablet */
