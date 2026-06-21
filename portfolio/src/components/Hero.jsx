@@ -197,7 +197,7 @@ function Hero() {
   <div className="flex items-center gap-3">
     <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
 
-    <span className="text-white text-sm md:text-lg whitespace-nowrap">
+    <span className="text-white text-xs md:text-base whitespace-nowrap">
       Available for opportunities
     </span>
   </div>
