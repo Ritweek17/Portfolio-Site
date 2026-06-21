@@ -26,7 +26,7 @@ function Contact() {
               Email
             </h3>
 
-            <p className="text-2xl">
+            <p className="text-xl sm:text-2xl md:text-3xl lg:text-4xl">
               ritweekdubey2006@gmail.com
             </p>
           </div>
